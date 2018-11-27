@@ -17,7 +17,7 @@ You can get a minimal conda installation with [Miniconda](https://conda.io/minic
 You can install and update cuDF using the conda command:
 
 ```bash
-conda install -c rapidsai -c nvidia -c numba -c conda-forge -c defaults cudf=0.2.7
+conda install -c rapidsai -c nvidia -c numba -c conda-forge -c defaults cudf=0.2.8
 ```
 
 Note: This conda installation only applies to Linux and Python versions 3.5/3.6.
