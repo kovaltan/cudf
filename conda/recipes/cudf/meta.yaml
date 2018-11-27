@@ -31,8 +31,8 @@ requirements:
   run:
     - python
     - setuptools
-    - libcudf 0.2.11.*
-    - libcudf_cffi 0.2.11.*
+    - libcudf 0.2.12.*
+    - libcudf_cffi 0.2.12.*
     - pandas 0.20.*
     - numba>=0.40.0dev
     - nvstrings
